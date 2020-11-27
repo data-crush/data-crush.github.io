@@ -1,4 +1,3 @@
-# data-crush.github.io
 
 ## Data Crush Learntainment
 
